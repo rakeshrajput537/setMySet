@@ -1,6 +1,6 @@
 <?php
 	/******************** SENDING PASSWORD VIA EMAIL ********************/
-		$to = "info@globalshineschool.com"; 
+		$to = "feedback@onmyfingertips.com"; 
 		$subject = "New message from ".$_POST['username']."";
 
 		$message = "
