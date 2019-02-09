@@ -5,7 +5,7 @@
 
 		$message = "
 			<p align='justify'>
-				<font size='2' face='verdana'>Hello School,</font>
+				<font size='2' face='verdana'>Hello SetMyTest,</font>
 			</p>
 			
 			<p align='justify'>
@@ -13,22 +13,10 @@
 					<b>".$_POST['username']."</b> has left a message for you.
 				</font>
 			</p>
-			<p align='justify'>
-				<font size='2' face='verdana'>
-			Father name is <b>".$_POST['fatherInputName']."</b> 
-				</font>
-			</p>
-			<p align='justify'>
-				<font size='2' face='verdana'>
-			Father occupation name is <b>".$_POST['foInputName']."</b> 
-				</font>
-			</p>
+
+
 			
-			<p align='justify'>
-				<font size='2' face='verdana'>
-					'<i>".$_POST['InputName']."</i>'
-				</font>
-			</p>
+
      		<p>
 				<font size='2' face='verdana'>
 					Sender Email : <b>".$_POST['email']."</b> <br />
@@ -41,7 +29,7 @@
 			</p>
 			<p align='justify'>
 				<font size='2' face='verdana'>
-					Message From <b>".$_POST['country']."</b> :- <b>".$_POST['messageInput']."</b> 
+					Message From <b>".$_POST['country']."</b></b> 
 				</font>
 			</p>
 				<hr />	
