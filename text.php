@@ -8,5 +8,5 @@
     $headers = "From:" . $from;
     mail($to,$subject,$message, $headers);
     echo "Test email sent";
-    header('location:blank.html')
+    header('location:index.html')
 ?>
